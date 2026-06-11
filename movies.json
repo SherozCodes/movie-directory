@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "title": "Inception",
+    "image": "🎬",
+    "genre": "Sci-Fi / Action",
+    "rating": "8.8",
+    "year": "2010",
+    "director": "Christopher Nolan",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+  },
+  {
+    "id": 1,
+    "title": "The Dark Knight",
+    "image": "🦇",
+    "genre": "Action / Crime",
+    "rating": "9.0",
+    "year": "2008",
+    "director": "Christopher Nolan",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "image": "🚀",
+    "genre": "Sci-Fi / Drama",
+    "rating": "8.7",
+    "year": "2014",
+    "director": "Christopher Nolan",
+    "description": "When Earth becomes uninhabitable, a team of explorers travels through a wormhole in space in an attempt to ensure humanity's survival."
+  },
+  {
+    "id": 3,
+    "title": "Avatar: The Way of Water",
+    "image": "🌊",
+    "genre": "Sci-Fi / Adventure",
+    "rating": "7.6",
+    "year": "2022",
+    "director": "James Cameron",
+    "description": "Jake Sully lives with his newfound family formed on the extraterrestrial moon of Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home."
+  }
+]
