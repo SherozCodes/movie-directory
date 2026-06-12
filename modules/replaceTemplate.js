@@ -5,6 +5,7 @@ module.exports = (card , product) => {
     output = output.replace(/{%TITLE%}/g , product.title);
     output = output.replace(/{%GENRE%}/g , product.genre);
     output = output.replace(/{%RATING%}/g , product.rating);
+    output = output.replace(/{%DESCRIPTION%}/g , product.description)
 
     return output
 }
